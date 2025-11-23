@@ -1,0 +1,11 @@
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\bin\Debug\Wk 10 - Radio Buttons Project.exe.config
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\bin\Debug\Wk 10 - Radio Buttons Project.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\bin\Debug\Wk 10 - Radio Buttons Project.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\obj\Debug\Wk 10 - Radio Buttons Project.csproj.AssemblyReference.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\obj\Debug\Wk_10___Radio_Buttons_Project.frmRadioStar.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\obj\Debug\Wk_10___Radio_Buttons_Project.Properties.Resources.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\obj\Debug\Wk 10 - Radio Buttons Project.csproj.GenerateResource.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\obj\Debug\Wk 10 - Radio Buttons Project.csproj.CoreCompileInputs.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\obj\Debug\Wk 10 - Radio Buttons Project.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\obj\Debug\Wk 10 - Radio Buttons Project.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Wk 10 - Radio Buttons Solution\Wk 10 - Radio Buttons Project\obj\Debug\Wk 10 - Radio Buttons Project.exe.config
