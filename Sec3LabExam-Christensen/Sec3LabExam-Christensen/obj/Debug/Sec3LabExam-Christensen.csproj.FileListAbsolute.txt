@@ -1,0 +1,11 @@
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\bin\Debug\Sec3LabExam-Christensen.exe.config
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\bin\Debug\Sec3LabExam-Christensen.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\bin\Debug\Sec3LabExam-Christensen.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\obj\Debug\Sec3LabExam-Christensen.csproj.AssemblyReference.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\obj\Debug\Sec3LabExam_Christensen.Properties.Resources.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\obj\Debug\Sec3LabExam-Christensen.csproj.GenerateResource.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\obj\Debug\Sec3LabExam-Christensen.csproj.CoreCompileInputs.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\obj\Debug\Sec3LabExam-Christensen.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\obj\Debug\Sec3LabExam-Christensen.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\obj\Debug\Sec3LabExam-Christensen.exe.config
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Sec3LabExam-Christensen\Sec3LabExam-Christensen\obj\Debug\Sec3LabExam_Christensen.Sec3LabExam.resources
