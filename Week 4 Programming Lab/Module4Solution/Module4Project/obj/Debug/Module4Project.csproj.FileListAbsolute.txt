@@ -1,0 +1,11 @@
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\bin\Debug\Module4Project.exe.config
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\bin\Debug\Module4Project.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\bin\Debug\Module4Project.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\obj\Debug\Module4Project.csproj.AssemblyReference.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\obj\Debug\Module4Project.frmOfDataTypes.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\obj\Debug\Module4Project.Properties.Resources.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\obj\Debug\Module4Project.csproj.GenerateResource.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\obj\Debug\Module4Project.csproj.CoreCompileInputs.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\obj\Debug\Module4Project.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\obj\Debug\Module4Project.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module4Solution\Module4Project\obj\Debug\Module4Project.exe.config
