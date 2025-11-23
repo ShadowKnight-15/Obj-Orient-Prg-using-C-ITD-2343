@@ -1,0 +1,10 @@
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\bin\Debug\Module 9 Christensen Project.exe.config
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\bin\Debug\Module 9 Christensen Project.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\bin\Debug\Module 9 Christensen Project.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\obj\Debug\Module 9 Christensen Project.csproj.AssemblyReference.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\obj\Debug\Module_9_Christensen_Project.frmCheckDigit.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\obj\Debug\Module_9_Christensen_Project.Properties.Resources.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\obj\Debug\Module 9 Christensen Project.csproj.GenerateResource.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\obj\Debug\Module 9 Christensen Project.csproj.CoreCompileInputs.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\obj\Debug\Module 9 Christensen Project.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Module 9 Christensen Solution\Module 9 Christensen Project\obj\Debug\Module 9 Christensen Project.pdb
