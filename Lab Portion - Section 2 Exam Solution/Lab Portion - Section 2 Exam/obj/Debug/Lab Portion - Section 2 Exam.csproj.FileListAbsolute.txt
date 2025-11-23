@@ -1,0 +1,11 @@
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\obj\Debug\Lab Portion - Section 2 Exam.csproj.AssemblyReference.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\obj\Debug\Lab_Portion___Section_2_Exam.OperationsEricChristensen.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\obj\Debug\Lab_Portion___Section_2_Exam.Properties.Resources.resources
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\obj\Debug\Lab Portion - Section 2 Exam.csproj.GenerateResource.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\obj\Debug\Lab Portion - Section 2 Exam.csproj.CoreCompileInputs.cache
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\bin\Debug\Lab Portion - Section 2 Exam.exe.config
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\bin\Debug\Lab Portion - Section 2 Exam.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\bin\Debug\Lab Portion - Section 2 Exam.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\obj\Debug\Lab Portion - Section 2 Exam.exe
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\obj\Debug\Lab Portion - Section 2 Exam.pdb
+C:\Users\eric_\Desktop\Fall '25\Obj-Orient Prg ITD 2343\Lab Portion - Section 2 Exam\Lab Portion - Section 2 Exam Solution\Lab Portion - Section 2 Exam\obj\Debug\Lab Portion - Section 2 Exam.exe.config
